@@ -14,31 +14,31 @@
 
 你好👋！
 
-感谢像你这样的数千名志愿者，freeCodeCamp.org。我们感谢您的贡献，我们很高兴欢迎您的光临。
+多亏有了像你一样的上千名志愿者，才有了freeCodeCamp.org。我们感谢您的贡献，欢迎您的光临。
 
-我们严格执行[“行为准则”]（https://www.freecodecamp.org/code-of-conduct）。花一点时间阅读它。它只有196个字。
+我们严格执行[“行为准则”]（https://www.freecodecamp.org/code-of-conduct）。花一点时间阅读。只有196个字。
 
-快乐贡献🎉！
+贡献快乐🎉！
 
 ##这里有一些有趣的方法可以提供帮助
 
 您可以选择为您感兴趣的任何领域做出贡献：
 
-1. [有助于这个开源代码库。]（＃contribution-to-this-open-source-codebase）。帮助编辑[指南文章]（https://guide.freecodecamp.org/），[编码挑战]（https://learn.freecodecamp.org/），或修复学习平台上的错误。
+1. [为这个开源代码库添砖加瓦。]（＃contribution-to-this-open-source-codebase）。帮助编辑[指南文章]（https://guide.freecodecamp.org/），[编码挑战]（https://learn.freecodecamp.org/），或修复学习平台上的错误。
 
 2.在我们的[公共论坛]（https://www.freecodecamp.org/forum/）上帮助营员。 [回答他们的编码问题]（https://www.freecodecamp.org/forum/?max_posts=1）或[给他们反馈他们的编码项目]（https://www.freecodecamp.org/forum/c/project反馈系统开发与？max_posts = 1）
 
 3.帮助我们为[YouTube频道视频]（https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ/videos）添加字幕。
 
-##有助于这个开源代码库
+##为这个开源代码库添砖加瓦
 
-我们有数千个[编码挑战]（https://learn.freecodecamp.org）和[指南文章]（https://guide.freecodecamp.org）的庞大开源代码库。
+我们有一个庞大开源代码库，其中有数千个[编码挑战]（https://learn.freecodecamp.org）和[指南文章]（https://guide.freecodecamp.org）。
 
 你可以帮助我们：
 
  -  [📝研究，编写和更新我们的指南文章]（＃research-write-and-update-our-guide-articles）
 
- -  [💻在我们的编码挑战中创建，更新和修复错误]（＃create-update-and-fix-bugs-in-our-coding-challenges）
+ -  [💻在我们的编码挑战中创建、更新和修复错误]（＃create-update-and-fix-bugs-in-our-coding-challenges）
 
  -  [🌐翻译指南文章和编码挑战]（＃translate-guide-articles-and-coding-challenges）
 
@@ -48,7 +48,7 @@
 
 **什么是指南文章？**
 
-指南文章可帮助您快速了解技术概念。这些是简短的，简单的英语解释，您可以在继续阅读更深入的资源之前阅读这些解释。
+指南文章可帮助您快速了解技术概念。这些是简短的、简单的英语解释，您可以在继续阅读更深入的资源之前阅读这些解释。
 
 您可以在这里找到[关于HTML元素的示例文章]（./client/src/pages /html/elements/index.md）。
 
@@ -56,7 +56,7 @@
 
 我们欢迎您撰写这些文章的帮助。你不必成为一个主题的专家来写它 - 整个指南是开源的，所以即使你犯了错误，另一个贡献者最终会纠正它。
 
-为了帮助，在我们的[指南网站]（https://www.freecodecamp.org/guide）上找到一个“存根文章”，写下文章，然后打开拉取请求，用您的文章替换存根。 [pull request]（https://help.github.com/articles/about-pull-requests/）是您建议更改的方式。它让其他人了解您的更改，审核并采用它们。
+为了帮助，在我们的[指南网站]（https://www.freecodecamp.org/guide）上找到一个“存根文章”，编写文章，然后打开拉取请求，用您的文章替换存根。 [拉取请求 pull request]（https://help.github.com/articles/about-pull-requests/）是您提出更改的建议。让其他人了解您的更改、审核并采用它们。
 
 如果您找不到关于您想要撰写的主题的存根，则可以打开创建存根的PR并包含您的草稿文章。
 
